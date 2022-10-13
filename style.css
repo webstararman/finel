@@ -9,7 +9,7 @@
 		width: 140px;
 	}
 	.your-location-menu ul li:nth-child(2) {
-		width: 170px;
+		width: 175px;
 	}
 	.your-location-menu ul li:nth-child(3) {
 		width: 110px;
@@ -25,16 +25,14 @@
 		width: 125px;
 	}
 	.your-location-menu ul li:nth-child(2) {
-		width: 164px;
-	}.your-location-menu ul li:nth-child(2) {
-		width: 164px;
+		width: 175px;
 	}
 	
 	.your-location-menu ul li:nth-child(3) {
-		width: 100px;
+		width: 110px;
 	}
 	.your-location-menu ul li:nth-child(4) {
-		width: 160px;
+		width: 170px;
 	}
 }	
 @media (min-width:495px) and (max-width:579px) {
@@ -43,11 +41,11 @@
 		font-size: 15px;
 	}
 	.your-location-menu ul li:nth-child(2) {
-		width: 145px;
+		width: 152px;
 		font-size: 15px;
 	}
 	.your-location-menu ul li:nth-child(3) {
-		width: 88px;
+		width: 100px;
 		font-size: 15px;
 	}
 	.your-location-menu ul li:nth-child(4) {
@@ -68,12 +66,12 @@
 	}
 	.your-location-menu ul li:nth-child(2) {
 		font-size: 15px;
-		width: 150px;
+		width: 153px;
 		margin-top: 35px;
 	}
 	.your-location-menu ul li:nth-child(3) {
 		font-size: 14px;
-		width: 89px;
+		width: 95px;
 		margin-top: 35px;
 	}
 	.your-location-menu ul li:nth-child(4) {
@@ -95,63 +93,20 @@
 	}
 	.your-location-menu ul li:nth-child(2) {
 		font-size: 14px;
-		width: 135px;
-		margin-top: 35px;
-	}
-	.your-location-menu ul li:nth-child(3) {
-		font-size: 13px;
-		width: 81px;
-		margin-top: 35px;
-	}
-	.your-location-menu ul li:nth-child(4) {
-		font-size: 13px;
-		width: 180px;
-		margin-top: 35px;
-	}
-  }
-  /*
-@media (min-width:400px) and (max-width:494px) {
-	.your-location-menu ul li:nth-child(1) {
-		width: 105px;
-		font-size: 15px;
-	}
-	.your-location-menu ul li:nth-child(2) {
 		width: 145px;
-		font-size: 15px;
+		margin-top: 35px;
 	}
 	.your-location-menu ul li:nth-child(3) {
-		width: 88px;
-		font-size: 15px;
+		font-size: 13px;
+		width: 90px;
+		margin-top: 35px;
 	}
 	.your-location-menu ul li:nth-child(4) {
-		width: 150px;
-		font-size: 15px;
+		font-size: 13px;
+		width: 165px;
+		margin-top: 35px;
 	}
   }
-  @media (min-width:300px) and (max-width:399px) {
-	.your-location-menu ul li:nth-child(1) {
-		
-	font-size: 14px;
-	width: 110px;
-	}
-	.your-location-menu ul li:nth-child(2) {
-		
-	font-size: 14px;
-	width: 137px;
-	}
-	.your-location-menu ul li:nth-child(3) {
-		
-	font-size: 14px;
-	width: 89px;
-	}
-	.your-location-menu ul li:nth-child(4) {
-		
-	font-size: 14px;
-	width: 165px;
-	}
-  }
-  */
-
   .location{
 	position: relative;
   }
